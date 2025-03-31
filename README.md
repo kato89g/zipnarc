@@ -20,13 +20,16 @@ Make sure you are connected to the internet and have Python installed on your sy
 
 Then, install the required dependencies by running:
 
-pip install pillow requests 
-
+ _____________________________
+| pip install pillow requests |
+|_____________________________|
 Running the Program
 
 To run the program, simply execute the main file:
 
-python zipnarc.py 
+ _____________________________
+| python zipnarc.py           |
+|_____________________________|
 
 How to Use
 
